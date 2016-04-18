@@ -1,0 +1,3 @@
+/Users/sebastian/Coding/VOCl/Builds/CMakeFiles/VOCL.dir
+/Users/sebastian/Coding/VOCl/Builds/CMakeFiles/ALL_BUILD.dir
+/Users/sebastian/Coding/VOCl/Builds/CMakeFiles/ZERO_CHECK.dir
